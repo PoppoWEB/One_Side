@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>One Side C.C</title>
+        <meta charset="UTF-8">
+        <style>
+
+            body {
+                zoom: 85%;
+                margin-left: 50px;
+            }
+
+            p {
+                /* コメントです*/
+                text-align: center;
+            }
+
+            .BTN1 {
+                margin: auto;
+                color: black;
+                font-size: 30px;
+                border-top: solid 2px white;
+                border-left: solid 2px white;
+                background-color: gray;
+                text-align: center;
+                width: 150px;
+                position: relative;
+                top: -280px;
+                left: -25px;
+            }
+
+            .BTN2 {
+                margin: auto;
+                color: black;
+                font-size: 30px;
+                border-top: solid 2px white;
+                border-left: solid 2px white;
+                background-color: gray;
+                text-align: center;
+                width: 150px;
+                position: relative;
+                top: -270px;
+                left: -25px;
+            }
+
+            .GIF {
+                margin-left: 75px;
+            }
+
+        </style>
+    </head>
+
+        <body background="spaces.gif" oncontextmenu="alert('保存禁止');return false">  
+        
+        <script>
+            function clickDisplayAlert() {
+                alert("準備中");
+            }
+        </script>
+
+        <!-- 文章 -->
+
+        <div class="ONE"> 
+            <p>
+                <img src="20210901_210903_0.jpg" style="margin-left: -100px; border: solid 4px gray; " width="300"/>
+                <img src="ロゴ.jpg" style="margin-left: 50px; margin-top: 130px; border: solid 4px gray;" width="350">
+                <img src="20210901_210903_1.jpg" style=" border: solid 4px gray;  position: relative; left: 50px; border: solid 4px gray;" width="300"/>
+            </p>
+        </div>
+
+        <div class="TWO">
+            <p>
+                <img src="20210901_210903_10.jpg" style="position: relative; left: -255px; border: solid 4px gray;" width="300"/>
+                <img src="TWO_TWO.jpg" style="position: relative;left: 210px; border: solid 4px gray;  "width="300"height="200"/>
+            </p>
+        </div>
+
+        <div class="THREE">
+            <p>
+                <img src="20210901_210903_17.jpg" style=" border: solid 4px gray; position: relative; left: -255px;"width="300"/>
+                <img src="20210901_210903_13.jpg" style=" border: solid 4px gray; margin: 0; position: relative; left: 210px;"width="300"/>
+            </p>
+
+            <div class="BUTTONS">
+                <p class="BTN1"> <a href="indexs.html" onclick="alert('index.html準備中')" > Archive </a></p>
+                <p class="BTN2"> <a href="Member.html"> Member </a></p>
+                <div class="GIF">
+                    <p> <img style="position: relative;top: -200px; left: -65px; " src="laptop-01.gif"width="150"></p>
+                    <p> <img style="position: relative;top: -200px; left: -65px;  " src="counter.gif"width="180" ></p>
+                </div>
+            </div>
+        </div>
+    </body>
+
+</html>
