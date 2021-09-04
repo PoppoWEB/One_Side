@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>One Side Member</title>
+        <meta charset="UTF-8">
+        <style>
+
+            body {
+                zoom: 75%;
+            }
+
+            p {
+                text-align: center;
+            }
+
+            .AL {
+                margin-left: -900px;
+            }
+
+            .CLUB {
+                margin-top: -100px;
+            }
+
+            .GENDAI {
+                margin-left: 830px;
+                margin-top: -430px;
+            }
+
+            .TAKU {
+                margin-left: -900px;
+                margin-top: -30px;
+            }
+
+            .BASS {
+                margin-top: -230px;
+            }
+
+            .KAIN {
+                margin-top: -510px;
+                margin-left: 830px;
+            }
+
+            .KRIN {
+                margin-left: -900px;
+                margin-top: -30px;
+            }
+
+            .KAZM {
+                margin-top: -150px;
+            }
+
+            .IKKO {
+                margin-top: -510px;
+                margin-left: 830px;
+            }
+
+            .BTN {
+                margin: auto;
+                color: black;
+                font-size: 30px;
+                border-top: solid 2px white;
+                border-left: solid 2px white;
+                background-color: gray;
+                text-align: center;
+                width: 150px;
+            }
+
+            .NAME {
+                font-size: 50px;
+                color: white;
+            }
+
+            .IMG {
+                border: solid 4px gray;
+                width: 300px;
+            }
+        </style>
+    </head>
+
+        <body background="spaces.gif" oncontextmenu="alert('保存禁止');return false">  
+
+        <!-- 文章 -->
+
+        <div class="AL"> 
+            <p>
+                <p class="NAME">AL
+                <a class="BTN" href="https://instagram.com/oneside_41_insanity?utm_medium=copy_link">Instagram</a>
+            </p>
+            <p>
+                <img class="IMG" style="margin-left: 30px; margin-top: -50px;" src="20210901_210903_4.jpg"/>
+            </p>
+            </p>
+        </div>
+
+        <div class="CLUB">
+            <p>
+                <a class="BTN" href="Member.html" onclick="alert('NO URL')">CLUB　Instagram</a>
+            </p>
+            <p>
+                <img class="IMG" src="ロゴ.jpg"/>
+            </p>
+        </div>
+
+        <div class="GENDAI"> 
+            <p>
+                <p class="NAME">Gendai
+                <a class="BTN" href="https://instagram.com/oneside_eg8?utm_medium=copy_link">Instagram</a>
+            </p>
+            <p>
+                <img class="IMG" style="margin-left: 30px; margin-top: -50px;" src="20210901_210903_11.jpg"/>
+            </p>
+            </p>
+        </div>
+
+        <div class="TAKU"> 
+            <p>
+                <p class="NAME">Taku
+                <a class="BTN" href="https://instagram.com/oneside_ek3?utm_medium=copy_link">Instagram</a>
+            </p>
+            <p>
+                <img class="IMG" style="margin-left: 30px; margin-top: -50px;" src="TAKUjpg.jpg"/>
+            </p>
+            </p>
+        </div>
+
+        <div class="BASS">
+            <p>
+                <p class="NAME">B4SS H3D
+                    <a class="BTN" href="
+                    https://instagram.com/b4ss_h3d?utm_medium=copy_link">Instagram</a>
+                </p>
+            </p>
+            <p>
+                <img class="IMG" style="margin-left: 30px; margin-top: -50px;" src="BASS.jpg"/>
+            </p>
+        </div>
+
+        <div class="KAIN">
+            <p>
+                <p class="NAME">Kainaru
+                    <a class="BTN" href="https://instagram.com/oneside_cherry_d?utm_medium=copy_link">Instagram</a>
+                </p>
+            </p>
+            <p>
+                <img class="IMG" style="margin-left: 30px; margin-top: -50px;" src="20210901_210903_12.jpg"/>
+            </p>
+        </div>
+
+        <div class="KRIN"> 
+            <p>
+                <p class="NAME">Kirin
+                <a class="BTN" href=https://instagram.com/oneside_sk_63?utm_medium=copy_link">Instagram</a>
+            </p>
+            <p>
+                <img class="IMG" style="margin-left: 30px; margin-top: -50px;" src="kirin.jpg"/>
+            </p>
+            </p>
+        </div>
+
+        <div class="KAZM">
+            <p>
+                <p class="NAME">Kazuma
+                    <a class="BTN" href="
+                    https://instagram.com/oneside_ks.dog_53?utm_medium=copy_link">Instagram</a>
+                </p>
+            </p>
+            <p>
+                <img class="IMG" style="margin-left: 30px; margin-top: -50px;" src="kazuma.jpg"/>
+            </p>
+        </div>
+
+        <div class="IKKO">
+            <p>
+                <p class="NAME">Ikko
+                    <a class="BTN" href="https://instagram.com/keep_1t_mind?utm_medium=copy_link">Instagram</a>
+                </p>
+            </p>
+            <p>
+                <img class="IMG" style="margin-left: 30px; margin-top: -50px;" src="ikko.jpg"/>
+            </p>
+        </div>
+
+    </body>
+
+</html>
